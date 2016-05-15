@@ -2,7 +2,7 @@
 
 This program consists of one function, which takes a []int type slice and checks its every element for following criteria:
     "If the sum of the elements on the left side of nth element of the slice is equal to the sum of the elements
-    on the right side of nth element of the slice, return true."
+    on the right side of nth element of the slice, return true or some handy information."
     and an example of that function's usage.
     It was a cool little excercise while learning Go :).
 
